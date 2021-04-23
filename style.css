@@ -1,0 +1,52 @@
+  .heading
+  {
+    float: none;
+    color: darkslategrey;
+    width: 100%;
+    margin: 0px;
+    padding: 10px;
+    font-size: 30px;
+    box-shadow:5px 5px 5px rgb(87, 128, 128);
+    font-family: 'Abril Fatface', cursive;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px;
+    color: darkslategrey;
+    box-shadow:5px 5px 5px rgb(87, 128, 128);
+    float: none;
+    padding: 10px;
+
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px rgb(87, 128, 128);
+    font-size: 20px;
+    white-space: pre-line;
+    font-family: 'Abril Fatface', cursive;
+  }
+  .copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    color: rgb(177, 226, 226);
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+    background-color: rgb(54, 95, 95);
+    font-size: 20px;
+    font-family: 'Abril Fatface', cursive;
+  }
+  .texttop{
+    font-size: 40px;
+  }
+  canvas{
+    margin-top: 200px;
+    box-shadow: 5px 5px 5px rgb(87, 128, 128);
+    border-radius: 5px;
+    border-color: darkslategrey;
+  }
